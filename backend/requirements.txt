@@ -1,2 +1,2 @@
-python-ffmpeg
+ffmpeg-python
 yt-dlp
